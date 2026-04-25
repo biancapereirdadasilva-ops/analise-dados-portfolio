@@ -20,7 +20,7 @@ Criação de um dashboard interativo no Looker Studio para visualização de ind
 5. Organização visual para storytelling
 
 ## Link do Dashboard
-[COLE AQUI O LINK DO SEU DASHBOARD]
+https://datastudio.google.com/reporting/0e2876a5-28d1-4883-89f7-5477df8f2a8e
 
 ## Aprendizados
 - Looker Studio é intuitivo e gratuito
