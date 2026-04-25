@@ -20,7 +20,7 @@ Creation of an interactive dashboard in Looker Studio for metric visualization a
 5. Visual organization for storytelling
 
 ## Dashboard Link
-[PASTE YOUR DASHBOARD LINK HERE]
+(https://datastudio.google.com/reporting/0e2876a5-28d1-4883-89f7-5477df8f2a8e)
 
 ## Key Learnings
 - Looker Studio is intuitive and free
