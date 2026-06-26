@@ -32,9 +32,9 @@ Este é meu portfólio de projetos em Análise de Dados. Estou em transição de
 
 ## 📫 Contato
 
-- **E-mail:** biancapereirdadasilva@gmail.com
-- **Telefone:** (19) 98252-3965
-- **LinkedIn:** (link-do-seu-linkedin)](https://www.linkedin.com/in/biancapereira-analise-de-dados?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- E-mail:biancapereirdadasilva@gmail.com
+
+- LinkedIn:(https://www.linkedin.com/in/biancapereira-analise-de-dados?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
